@@ -1,9 +1,9 @@
 Rails.application.routes.draw do
-
+<<<<<<< HEAD
   resources :line_items
-
+=======
   resources :carts
-
+>>>>>>> 0aa7813213e1875872d7be1544780db8d2ea1a68
 
   resources :products
 
